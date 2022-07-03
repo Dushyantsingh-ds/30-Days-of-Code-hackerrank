@@ -59,7 +59,7 @@ int main() {
     return 0;
 }
 ```
-
+![photo](https://github.com/Dushyantsingh-ds/30-Days-of-Code-hackerrank/blob/main/Content/Results/Day0.png)
 
 
 
