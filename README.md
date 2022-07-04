@@ -2,7 +2,7 @@
 ## [Go to Hackerrank](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
 
 [Day 0: Hello, World](https://github.com/Dushyantsingh-ds/30-Days-of-Code-hackerrank/blob/main/Content/Day%200:%20Hello%2C%20World.md) <br/>
-[Day 1: Data Types](https://github.com/Dushyantsingh-ds/30-Days-of-Code-hackerrank/ ) <br/>
+[Day 1: Data Types](https://github.com/Dushyantsingh-ds/30-Days-of-Code-hackerrank/blob/main/Content/Day%201:%20Data%20Types.md) <br/>
 [Day 2: Operators](https://github.com/Dushyantsingh-ds/30-Days-of-Code-hackerrank/ ) <br/>
 [Day 3: Intro to Conditional Statements](https://github.com/Dushyantsingh-ds/30-Days-of-Code-hackerrank/ ) <br/>
 [Day 4: Class vs. Instance](https://github.com/Dushyantsingh-ds/30-Days-of-Code-hackerrank/ ) <br/>
