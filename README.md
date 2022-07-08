@@ -6,7 +6,7 @@
 [Day 2: Operators](https://github.com/Dushyantsingh-ds/30-Days-of-Code-hackerrank/blob/main/Content/Day%202:%20Operators.md) <br/>
 [Day 3: Intro to Conditional Statements](https://github.com/Dushyantsingh-ds/30-Days-of-Code-hackerrank/blob/main/Content/Day%203:%20Intro%20to%20Conditional%20Statements.md) <br/>
 [Day 4: Class vs. Instance](https://github.com/Dushyantsingh-ds/30-Days-of-Code-hackerrank/blob/main/Content/Day%204:%20Class%20vs.%20Instance.md ) <br/>
-[Day 5: Loops](https://github.com/Dushyantsingh-ds/30-Days-of-Code-hackerrank/ ) <br/>
+[Day 5: Loops](https://github.com/Dushyantsingh-ds/30-Days-of-Code-hackerrank/blob/main/Content/Day%205:%20Loops.md) <br/>
 [Day 6: Let's Review](https://github.com/Dushyantsingh-ds/30-Days-of-Code-hackerrank/ ) <br/>
 [Day 7: Arrays](https://github.com/Dushyantsingh-ds/30-Days-of-Code-hackerrank/ ) <br/>
 [Day 8: Dictionaries and Maps](https://github.com/Dushyantsingh-ds/30-Days-of-Code-hackerrank/ ) <br/>
