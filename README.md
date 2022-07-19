@@ -17,7 +17,7 @@
 [Day 13: Abstract Classes](https://github.com/Dushyantsingh-ds/30-Days-of-Code-hackerrank/ ) <br/>
 [Day 14: Scope](https://github.com/Dushyantsingh-ds/30-Days-of-Code-hackerrank/ ) <br/>
 [Day 15: Linked List](https://github.com/Dushyantsingh-ds/30-Days-of-Code-hackerrank/ ) <br/>
-[Day 16: Exceptions - String to Integer](https://github.com/Dushyantsingh-ds/30-Days-of-Code-hackerrank/ ) <br/>
+[Day 16: Exceptions - String to Integer](https://github.com/Dushyantsingh-ds/30-Days-of-Code-hackerrank/blob/main/Content/Day%2016:%20Exceptions%20-%20String%20to%20Integer.md) <br/>
 [Day 17: More Exceptions](https://github.com/Dushyantsingh-ds/30-Days-of-Code-hackerrank/ ) <br/>
 [Day 18: Queues and Stacks](https://github.com/Dushyantsingh-ds/30-Days-of-Code-hackerrank/ ) <br/>
 [Day 19: Interfaces](https://github.com/Dushyantsingh-ds/30-Days-of-Code-hackerrank/ ) <br/>
